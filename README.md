@@ -214,24 +214,21 @@ A progression of Spring & Hibernate repositories: OOP → Spring Core → DI →
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Umadcn&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="49%" alt="GitHub stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umadcn&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="49%" alt="Top languages"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Umadcn&theme=tokyonight&hide_border=true" width="70%" alt="Streak stats"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Umadcn&theme=tokyo-night&hide_border=true" width="90%" alt="Activity graph"/>
+<img src="https://img.shields.io/github/followers/Umadcn?label=Followers&style=for-the-badge&color=764ba2&logo=github" alt="Followers"/>
+<img src="https://img.shields.io/github/stars/Umadcn?label=Total%20Stars&style=for-the-badge&color=667eea&logo=github" alt="Stars"/>
+<img src="https://komarev.com/ghpvc/?username=Umadcn&label=Profile%20Views&color=764ba2&style=for-the-badge" alt="Profile Views"/>
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Umadcn&theme=tokyonight&no-frame=true&row=1&column=6" width="90%" alt="Trophies"/>
+<!-- Streak card — renders reliably -->
+<img src="https://streak-stats.demolab.com/?user=Umadcn&theme=tokyonight&hide_border=true" width="70%" alt="Streak stats"/>
+
+<br/><br/>
+
+<!-- Activity graph — renders reliably -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Umadcn&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Activity graph"/>
 
 </div>
-
-<br/>
 
 ## 🧠 My Engineering Philosophy
 

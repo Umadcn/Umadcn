@@ -1,21 +1,30 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=Uma%20Mageswari%20D&fontColor=ffffff&fontSize=44&fontAlignY=38&desc=AI%20%26%20Backend%20Engineer&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Uma Mageswari D header"/>
+<h1>Uma Mageswari D</h1>
 
-<br/>
+<h3>🤖 AI Engineer &nbsp;·&nbsp; ⚙️ Backend Engineer &nbsp;·&nbsp; 🏗️ System Builder</h3>
 
+<p><b>Building Intelligent, Scalable &amp; Reliable Systems</b></p>
+
+<p><i>Don't just make the model work. Make the system work.</i></p>
+
+<p>
+  <code>Java</code> · <code>Python</code> · <code>Spring Boot</code> · <code>FastAPI</code> · <code>Generative AI</code> · <code>RAG</code> · <code>Agentic AI</code>
+</p>
+
+<a href="https://linkedin.com/in/umamageswari-dc">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:REPLACE_WITH_YOUR_EMAIL@example.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://github.com/Umadcn">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=764BA2&center=true&vCenter=true&width=680&lines=Software+Engineer+%40+Hexaware+Technologies;AI+%26+Backend+Developer;Building+Intelligent%2C+Scalable+%26+Reliable+Systems;Don't+just+make+the+model+work.+Make+the+system+work." alt="Typing SVG" />
-</a>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Umadcn&label=Profile%20Views&color=764ba2&style=for-the-badge" alt="Profile Views"/>&nbsp;
-<img src="https://img.shields.io/github/followers/Umadcn?label=Followers&style=for-the-badge&color=667eea" alt="Followers"/>&nbsp;
+<img src="https://komarev.com/ghpvc/?username=Umadcn&label=Profile%20Views&color=764ba2&style=for-the-badge" alt="Profile Views"/>
 <img src="https://img.shields.io/badge/Focus-AI%20Engineering-success?style=for-the-badge" alt="Focus"/>
 
 </div>
-
 <br/>
 
 ## 🧭 About Me

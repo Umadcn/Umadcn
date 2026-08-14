@@ -1,29 +1,32 @@
-
 <div align="center">
 
 # Uma Mageswari D
 
-### AI & Backend Developer | Building Intelligent & Scalable Systems
+### AI & Backend Developer
 
-**Java · Python · Spring Boot · FastAPI · Generative AI · RAG · Agentic AI**
+Building intelligent systems, scalable backends, and AI-powered workflows.
 
-<br/>
+<p>
+Java · Python · Spring Boot · FastAPI · GenAI · RAG · Agentic AI
+</p>
 
-<a href="https://www.linkedin.com/in/umamageswari-dc">
-  <img src="https://img.shields.io/badge/LinkedIn-Professional_Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<p>
+://github.com/Umadcn">
+181717?style=for-the-badge&logo=github" alt="GitHub"/>
 </a>
-<a href="mailto:umadcn1999@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+https://www.linkedin.com
+img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
 </a>
-<a href="https://github.com/Umadcn">
-  <img src="https://img.shields.io/badge/GitHub-Engineering_Work-181717?style=for-the-badge&logo=github&logoColor=white"/>
+-email@example.com">
+/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
+</p>
 
 </div>
 
 ---
 
-## ⚡ Engineering Snapshot
+## Engineering Snapshot
 
 <table>
 <tr>
@@ -33,31 +36,34 @@
 
 - AI-powered backend systems
 - Agentic AI workflows
-- Retrieval-Augmented Generation systems
+- Retrieval-Augmented Generation (RAG) applications
 - LLM-powered applications
-- RESTful backend services
+- REST API services
 - Data-driven applications
-- Automation platforms
-- Full-stack business applications
+- Automation systems
+- Business applications
 - Real-world engineering solutions
 
 </td>
-
 <td width="50%" valign="top">
 
-### My Engineering Direction
+### My Current Direction
 
 **AI Engineering**
 
-Agentic AI → Multi-Agent Systems → RAG → LLM Applications → AI Evaluation
+Agentic AI → Multi-Agent Systems → RAG → LLM Applications → Evaluation
+
+<br>
 
 **Backend Engineering**
 
 Java → Spring Boot → Python → FastAPI → REST APIs
 
-**Engineering Focus**
+<br>
 
-Architecture → Data → Intelligence → APIs → Evaluation → Reliability
+**Systems Thinking**
+
+Architecture → Data → APIs → Intelligence → Evaluation → Reliability
 
 </td>
 </tr>
@@ -65,232 +71,316 @@ Architecture → Data → Intelligence → APIs → Evaluation → Reliability
 
 ---
 
-## 👩‍💻 About Me
+## About Me
 
-I'm a Software Engineer at **Hexaware Technologies**, focused on backend engineering and intelligent software systems.
+I am a Software Engineer at **Hexaware Technologies** with a strong interest in backend engineering and intelligent software systems.
 
-My engineering journey started with **Java, Spring and application development**, and has expanded into **Python, Generative AI, RAG, Agentic AI and data-oriented engineering**.
+My development journey began with **Java, Spring, backend application development, databases, and API design**. Over time, my focus expanded toward **Python, Generative AI, Retrieval-Augmented Generation (RAG), Agentic AI, Multi-Agent Systems, and intelligent backend architectures**.
 
-I enjoy working beyond individual features — understanding how the complete system should behave from **problem definition to architecture, implementation, evaluation and reliability**.
+I enjoy thinking beyond individual features and understanding the complete engineering lifecycle:
 
-I'm particularly interested in engineering systems where **software engineering and AI work together to solve meaningful real-world problems**.
+**Problem → Architecture → Implementation → Data & Intelligence → Evaluation → Reliable System**
+
+I am particularly interested in projects where software engineering and AI can work together to solve meaningful real-world problems.
 
 ---
 
-## 🧠 Engineering Mindset
+## Engineering Mindset
 
 > **Don't just make the model work. Make the system work.**
 
-For every serious project, I try to think beyond the implementation.
+My interest in AI engineering extends far beyond simply calling an LLM from an application.
 
-```text
-REAL-WORLD PROBLEM
-        ↓
-SYSTEM DESIGN
-        ↓
-DATA & CONTEXT
-        ↓
-BACKEND / APIs
-        ↓
-AI / INTELLIGENCE
-        ↓
-EVALUATION
-        ↓
-RELIABILITY
-        ↓
-MEASURABLE OUTCOME
+I am focused on the engineering that happens around intelligence:
 
-My goal is not simply to integrate an LLM into an application.
+- Context and retrieval
+- Agent orchestration
+- Tool integration
+- Evaluation and validation
+- Reliability and observability
+- Measurable outcomes
 
-My goal is to understand and engineer the complete intelligent system around it.
-
+The goal is not only to generate responses, but to build systems that produce dependable results in real-world environments.
 
 ---
 
-🛠️ Technology Stack
+## Technology Stack
 
-Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,js,ts" />
-</p>Backend & APIs
+### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=spring,fastapi,nodejs" />
-</p>Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres" />
-</p>AI Engineering
-
-<p>Generative AI · LLMs · RAG · LangChain · Agentic AI
-
-Multi-Agent Systems · Prompt Engineering · LLM Evaluation
-
-</p>Engineering Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman" />
+https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white
+https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white
+https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black
+adge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript"/>
 </p>
----
 
-🚀 Selected Engineering Work
+### Backend & APIs
 
-<table>
-<tr><td width="50%" valign="top">ORION
+<p>
+img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white" alt="Spring"/>
+.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white" alt="Spring Boot"/>
+://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" alt="FastAPI"/>
+img.shields.io/badge/REST_APIs-0F172A?style=flat" alt="REST APIs"/>
+https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white
+</p>
 
-Autonomous Multi-Agent Investigation Platform
+### Databases
 
-A research-oriented system exploring how specialized AI agents can collaboratively investigate complex cascading failures.
+<p>
+/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL"/>
+ields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+</p>
 
-Focus
+### AI Engineering
 
-Agentic AI · LLMs · Multi-Agent Systems
-Evidence Graphs · AI Orchestration
+<p>
+Generative_AI-111827?style=flat" alt="Generative AI"/>
+LLMs-111827?style=flat" alt="LLMs"/>
+https://img.shields.io/badge/RAG-111827?style=flat
+/badge/LangChain-111827?style=flat" alt="LangChain"/>
+adge/Agentic_AI-111827?style=flat" alt="Agentic AI"/>
+/Multi--Agent_Systems-111827?style=flat" alt="Multi-Agent Systems"/>
+.io/badge/Prompt_Engineering-111827?style=flat" alt="Prompt Engineering"/>
+_Evaluation-111827?style=flat" alt="LLM Evaluation"/>
+</p>
 
-</td><td width="50%" valign="top">EV Charging Network
+### Engineering Tools
 
-Intelligent EV Infrastructure
-
-A Python-based engineering project exploring software approaches for electric-vehicle charging infrastructure and network operations.
-
-Focus
-
-Python · Data Processing · Real-World Systems
-
-</td></tr><tr><td width="50%" valign="top">AssetFlow
-
-Digital Asset Management Platform
-
-A business-oriented application designed around structured asset management and workflow-driven operations.
-
-Focus
-
-Application Engineering · Business Workflows
-
-</td><td width="50%" valign="top">Java Backend Engineering
-
-Spring & REST API Ecosystem
-
-A collection of backend applications developed while exploring Java, Spring Boot, Hibernate, REST APIs and database-driven systems.
-
-Focus
-
-Java · Spring Boot · Hibernate
-REST APIs · MySQL
-
-</td></tr>
-</table>
----
-
-🔬 AI Engineering Lab
-
-I'm especially interested in what happens after the LLM call.
-
-Problem
-   ↓
-Data + Context
-   ↓
-Retrieval / RAG
-   ↓
-Agent
-   ↓
-Tool Usage
-   ↓
-Reasoning
-   ↓
-Evaluation
-   ↓
-Reliable Output
-
-The interesting engineering problems are often not:
-
-"Can the model generate an answer?"
-
-but rather:
-
-"Can the complete system produce a reliable, traceable and useful outcome?"
-
+<p>
+?style=flat&logo=git&logoColor=white" alt="Git"/>
+ields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
+https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white
+adge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman"/>
+</p>
 
 ---
 
-🎯 Currently Exploring
+## Selected Engineering Work
 
 <table>
 <tr>
-<td align="center">🤖<br/><b>Agentic AI</b></td>
-<td align="center">📚<br/><b>RAG Systems</b></td>
-<td align="center">🧩<br/><b>Multi-Agent Architecture</b></td>
-<td align="center">📊<br/><b>LLM Evaluation</b></td>
-</tr><tr>
-<td align="center">⚙️<br/><b>Backend Systems</b></td>
-<td align="center">🐍<br/><b>Python Engineering</b></td>
-<td align="center">☁️<br/><b>Cloud Engineering</b></td>
-<td align="center">🏗️<br/><b>System Design</b></td>
+<td width="50%" valign="top">
+
+### ORION
+
+**Autonomous Multi-Agent Investigation Platform**
+
+A research-oriented platform exploring how specialized AI agents can collaboratively investigate complex cascading failures through evidence gathering, reasoning, structured workflows, and orchestration.
+
+**Focus**
+
+`Agentic AI` • `Multi-Agent Systems` • `LLMs` • `Reasoning` • `Tool Usage` • `Evidence Graphs` • `AI Architecture`
+
+</td>
+
+<td width="50%" valign="top">
+
+### EV Charging Network Project
+
+Python-based engineering project exploring software approaches to electric vehicle charging infrastructure and network operations.
+
+**Focus**
+
+`Python` • `Data Processing` • `Infrastructure Systems` • `Engineering Applications`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### AssetFlow
+
+Business-oriented digital asset management application designed around structured asset management and workflow-driven operations.
+
+**Focus**
+
+`Application Engineering` • `Workflow Design` • `Business Systems`
+
+</td>
+
+<td width="50%" valign="top">
+
+### Java Backend Engineering
+
+A collection of Java and Spring-based repositories representing progression through backend engineering concepts, including Spring Core, Dependency Injection, Spring Boot, Hibernate, HQL, testing, and database-driven applications.
+
+**Representative Repositories**
+
+- Hexaware_SpringBoot
+- BankManagementSystem
+- LibraryManagementSystem
+- JUnitAssignment
+- Hexaware_hibernate_hqlQueries
+- Entity_Relationship_Diagram
+
+</td>
 </tr>
 </table>
----
 
-📈 GitHub Engineering Activity
+### Additional Engineering Work
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Umadcn&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" /><br/><img src="https://github-readme-streak-stats.herokuapp.com/?user=Umadcn&hide_border=true&theme=transparent" /></div>
----
-
-🧭 Build Philosophy
-
-<table>
-<tr>
-<td align="center"><b>LEARN</b><br/>Understand the fundamentals</td>
-<td align="center"><b>EXPERIMENT</b><br/>Test ideas quickly</td>
-<td align="center"><b>BUILD</b><br/>Create real systems</td>
-</tr><tr>
-<td align="center"><b>MEASURE</b><br/>Evaluate the outcome</td>
-<td align="center"><b>DOCUMENT</b><br/>Make engineering visible</td>
-<td align="center"><b>IMPROVE</b><br/>Iterate continuously</td>
-</tr>
-</table>I use GitHub as an engineering workspace where I learn, experiment, build, measure, document and improve.
-
-The objective is not to have the largest number of repositories.
-
-It is to build a portfolio that demonstrates how I think, how I engineer and how I solve problems.
-
+Additional repositories in this profile document ongoing learning, experimentation, and application development across software engineering, APIs, frontend/backend concepts, and problem-solving projects.
 
 ---
 
-🌱 Current Learning Path
+## AI Engineering Lab
 
-Advanced Generative AI
-        ↓
-Agentic AI Architectures
-        ↓
-Multi-Agent Orchestration
-        ↓
-Retrieval-Augmented Generation
-        ↓
-LLM Evaluation & Reliability
-        ↓
-Data Engineering
-        ↓
-Cloud-Native Development
-        ↓
-Production-Oriented AI Engineering
+<div align="center">
 
+### How I Think About Intelligent Systems
 
----
+**REAL-WORLD PROBLEM**
 
-📫 Let's Connect
+↓  
 
-<div align="center">Interested in AI Engineering, Backend Systems or Real-World Software?
+**DATA + CONTEXT**
 
-<a href="https://www.linkedin.com/in/umamageswari-dc">
-<img src="https://img.shields.io/badge/LinkedIn-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a><a href="mailto:umadcn1999@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a><br/><br/>
+↓  
 
-Building quietly. Learning continuously. Engineering deliberately.
+**RETRIEVAL / RAG**
 
-Java · Python · Spring Boot · FastAPI · GenAI · RAG · Agentic AI
+↓  
+
+**AGENT**
+
+↓  
+
+**TOOL USAGE**
+
+↓  
+
+**REASONING**
+
+↓  
+
+**EVALUATION**
+
+↓  
+
+**RELIABLE OUTPUT**
 
 </div>
 
+Rather than focusing solely on model responses, I am interested in how the entire system contributes to reliable outcomes.
+
+---
+
+## Currently Exploring
+
+<table>
+<tr>
+<td align="center">Agentic AI</td>
+<td align="center">RAG Systems</td>
+<td align="center">Multi-Agent Architecture</td>
+<td align="center">LLM Evaluation</td>
+</tr>
+<tr>
+<td align="center">Backend Systems</td>
+<td align="center">Python Engineering</td>
+<td align="center">Cloud Engineering</td>
+<td align="center">System Design</td>
+</tr>
+</table>
+
+These represent active areas of exploration and development rather than claims of advanced expertise.
+
+---
+
+## GitHub Engineering Activity
+
+<div align="center">
+
+https://github-readme-stats.vercel.app/api?username=Umadcn&show_icons=true&hide_border=true&theme=github_dark
+
+https://github-readme-streak-stats.herokuapp.com/?user=Umadcn&theme=github-dark&hide_border=true
+
+</div>
+
+---
+
+## Build Philosophy
+
+<table>
+<tr>
+<td align="center"><strong>LEARN</strong></td>
+<td align="center"><strong>EXPERIMENT</strong></td>
+<td align="center"><strong>BUILD</strong></td>
+</tr>
+<tr>
+<td align="center"><strong>MEASURE</strong></td>
+<td align="center"><strong>DOCUMENT</strong></td>
+<td align="center"><strong>IMPROVE</strong></td>
+</tr>
+</table>
+
+I use GitHub as an engineering workspace where I learn, experiment, build, measure, document, and improve.
+
+The goal is not to have the largest number of repositories.
+
+The goal is to build a portfolio that demonstrates **how I think, how I engineer, and how I solve problems.**
+
+---
+
+## Current Learning Direction
+
+<div align="center">
+
+Advanced Generative AI
+
+↓
+
+Agentic AI Architectures
+
+↓
+
+Multi-Agent Orchestration
+
+↓
+
+Retrieval-Augmented Generation
+
+↓
+
+LLM Evaluation & Reliability
+
+↓
+
+Data Engineering
+
+↓
+
+Cloud-Native Development
+
+↓
+
+Production-Oriented AI Engineering
+
+</div>
+
+This path represents the direction I am actively learning toward as I continue to bridge software engineering with intelligent systems.
+
+---
+
+## Connect
+
+### Interested in AI Engineering, Backend Systems, or Real-World Software?
+
+<p>
+https://www.linkedin.com
+https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin
+</a>
+
+mailto:your-email@example.com">
+.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+">
+https://img.shields.io/badge/GitHub-Umadcn-181717?style=for-the-badge&logo=github
+</a>
+</p>
+
+**Building quietly. Learning continuously. Engineering deliberately.**
+
+---

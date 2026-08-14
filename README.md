@@ -12,14 +12,7 @@
   <code>Java</code> · <code>Python</code> · <code>Spring Boot</code> · <code>FastAPI</code> · <code>Generative AI</code> · <code>RAG</code> · <code>Agentic AI</code>
 </p>
 
-<a href="https://linkedin.com/in/umamageswari-dc">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:REPLACE_WITH_YOUR_EMAIL@example.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://github.com/Umadcn">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-
-<br/><br/>
+<br/>
 
 <img src="https://komarev.com/ghpvc/?username=Umadcn&label=Profile%20Views&color=764ba2&style=for-the-badge" alt="Profile Views"/>
 <img src="https://img.shields.io/badge/Focus-AI%20Engineering-success?style=for-the-badge" alt="Focus"/>
